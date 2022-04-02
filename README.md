@@ -21,4 +21,4 @@
     - EJ13.2: 4
     - EJ13.2: -
     
-# NOTA: 2
+# NOTA FINAL (SOBRE 2 PUNTOS): 2
